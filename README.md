@@ -1,2 +1,13 @@
 # PetBogo
 Empresa multimillonaria WAOS
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Mi primera página</title>
+</head>
+<body style="background-color: lightblue; text-align: center;">
+    <h1>¡Hola Mundo!</h1>
+    <p>Esta es mi primera página web publicada en internet 🚀</p>
+</body>
+</html>
