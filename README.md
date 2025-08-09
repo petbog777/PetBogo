@@ -1,6 +1,5 @@
-# PetBogo
+# PetBog
 Empresa multimillonaria WAOS
-
 <html>
 <head>
     <meta charset="UTF-8">
